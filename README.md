@@ -2,9 +2,9 @@
 <h3 align="center">A  developer from Brazil</h3>
 
 
-## 🛠️ My favorite tools
+<h3 align="center"> 🛠️ My favorite tools</h3>
 
-<h3> ### 👨‍💻 Programming and markup languages</h3>
+### 👨‍💻 Programming and markup languages
 
 <p>  
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
