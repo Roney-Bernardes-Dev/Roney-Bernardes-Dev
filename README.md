@@ -2,7 +2,7 @@
 <h3 align="center">A  developer from Brazil</h3>
 
 
-<h3 align="center"> 🛠️ My favorite tools</h3>
+## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
 
