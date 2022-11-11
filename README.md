@@ -4,7 +4,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming and markup languages
+<h3> ### 👨‍💻 Programming and markup languages</h3>
 
 <p>  
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
