@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roney</h1>
+<h1 align="center">Hi, I'm Roney</h1>
 <h3 align="center">Front-End developer from Brazil</h3>
 
 <div align="center">
@@ -8,6 +8,7 @@
 </div>
 
 <h1 align="center">🛠️ My favorite tools</h1>
+  
 ### 👨‍💻 Programming and markup languages
 
 <p>  
