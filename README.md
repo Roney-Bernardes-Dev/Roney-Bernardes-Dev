@@ -4,6 +4,15 @@
 
 ## 🛠️ My favorite tools
 
+<div align="center">
+  <a href="https://github.com/Roney-Bernardes-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roney-Bernardes-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roney-Bernardes-Dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+
 ### 👨‍💻 Programming and markup languages
 
 <p>  
