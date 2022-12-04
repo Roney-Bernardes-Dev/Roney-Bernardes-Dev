@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roney-Bernardes-Dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 🛠️ My favorite tools
+<h1 align="center">🛠️ My favorite tools</h1>
 ### 👨‍💻 Programming and markup languages
 
 <p>  
