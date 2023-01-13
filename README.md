@@ -17,6 +17,9 @@
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     </a>
     <a href="#">
+        <img alt="Lua" src="https://img.shields.io/badge/Lua-000080.svg?logo=lua&logoColor=white">
+    </a>
+    <a href="#">
         <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
     </a>
 </p>
@@ -30,6 +33,10 @@
     <a href="#">
         <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
+    <a href="#">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
+</a>
+
 </p>
 
 <h1>🗄️ Databases and cloud hosting</h1>
