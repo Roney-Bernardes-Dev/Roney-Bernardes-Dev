@@ -1,6 +1,17 @@
 <h1 align="center">Hi, I'm Roney Bernardes</h1>
 <h3 align="center">Front-End developer from Brazil</h3>
 
+<p align="center">
+    Olá, meu nome é Roney e sou desenvolvedor Front-End. Eu sou apaixonado por tecnologia e amo trabalhar tanto com o lado Back-end quanto com o Front-end. Acredito que ser um desenvolvedor Full Stack me permite ter uma visão mais completa e abrangente do desenvolvimento de software. 
+</p>
+<p align="center">
+    Sempre estou estudando novas tecnologias e aprimorando minhas habilidades em tecnologias já conhecidas. Meu objetivo é ficar sempre atualizado com as tendências e evoluções da indústria de tecnologia.
+</p>
+<p align="center">
+    Meu perfil no GitHub é uma amostra do meu trabalho e dos projetos que desenvolvi. Sinta-se à vontade para dar uma olhada e entrar em contato comigo se tiver alguma dúvida ou interesse em trabalhar juntos.
+</p>
+
+
 <h1>🛠️ My favorite tools</h1>
 
 <p>  
