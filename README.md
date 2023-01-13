@@ -11,7 +11,7 @@
     Meu perfil no GitHub é uma amostra do meu trabalho e dos projetos que desenvolvi. Sinta-se à vontade para dar uma olhada e entrar em contato comigo se tiver alguma dúvida ou interesse em trabalhar juntos.
 </p>
 
-
+<div align="center">
 <h1>🛠️ My favorite tools</h1>
 
 <p>  
@@ -34,10 +34,11 @@
         <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
     </a>
 </p>
+</div>
 
-<h1>🛠️ Frameworks and libraries</h1>
-
-<p>
+<div align="center">
+  <h1>🛠️ Frameworks and libraries</h1>
+  <p>
     <a href="#">
         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
     </a>
@@ -47,9 +48,10 @@
     <a href="#">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
 </a>
-
 </p>
+</div>
 
+<div align="center">
 <h1>🗄️ Databases and cloud hosting</h1>
 
 <p>
@@ -60,7 +62,9 @@
         <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
     </a>
 </p>
+</div>
 
+<div align="center">
 <h1>💻 Software and tools</h1>
 
 <p>
@@ -77,3 +81,4 @@
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     </a>
 </p>
+</div>
