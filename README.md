@@ -12,12 +12,6 @@
 </p>
 
 
-<div align="center">
-  <a href="https://github.com/Roney-Bernardes-Dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Roney-Bernardes-Dev&count_private=true&include_all_commits=true&show_icons=true&theme=blueberry&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roney-Bernardes-Dev&theme=blueberry&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 
 <div align="center">
