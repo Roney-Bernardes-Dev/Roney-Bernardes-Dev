@@ -2,7 +2,7 @@
 <h3 align="center">Front-End developer from Brazil</h3>
 
 <p align="center">
-    Olá, meu nome é Roney e sou desenvolvedor Front-End. Eu sou apaixonado por tecnologia e amo trabalhar tanto com o lado Back-end quanto com o Front-end. Acredito que ser um desenvolvedor Full Stack me permite ter uma visão mais completa e abrangente do desenvolvimento de software. 
+    Olá, meu nome é Roney e sou desenvolvedor. Eu sou apaixonado por tecnologia e amo trabalhar tanto com o lado Back-end quanto com o Front-end. Acredito que ser um desenvolvedor Full Stack me permite ter uma visão mais completa e abrangente do desenvolvimento de software. 
 </p>
 <p align="center">
     Sempre estou estudando novas tecnologias e aprimorando minhas habilidades em tecnologias já conhecidas. Meu objetivo é ficar sempre atualizado com as tendências e evoluções da indústria de tecnologia.
